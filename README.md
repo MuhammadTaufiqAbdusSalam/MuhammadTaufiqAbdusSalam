@@ -25,9 +25,16 @@
 ---
 
 ## 📊 GitHub Stats
-![Taufiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadTaufiqAbdusSalam&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadTaufiqAbdusSalam&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTaufiqAbdusSalam&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadTaufiqAbdusSalam&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadTaufiqAbdusSalam&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTaufiqAbdusSalam&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+[![Taufiq's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadTaufiqAbdusSalam&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -36,4 +43,4 @@
 
 ---
 
-✨ _"Code is like humor. When you have to explain it, it’s bad."_  
+✨ _"Code is like humor. When you have to explain it, it’s bad."_
