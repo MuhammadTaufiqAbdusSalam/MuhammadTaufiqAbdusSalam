@@ -1,6 +1,3 @@
-<!-- Banner -->
-![Banner](https://i.imgur.com/dD8mH5T.png)
-
 <h1 align="center">Hi 👋, I'm Muhammad Taufiq Abdus Salam</h1>
 <h3 align="center">💻 Web Developer | 🎯 Digital Marketing Enthusiast</h3>
 
