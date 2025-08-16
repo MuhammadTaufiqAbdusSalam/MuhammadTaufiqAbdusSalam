@@ -44,4 +44,10 @@
 
 ---
 
+## 🎉 Fun Facts
+- 🔥 Bisa ngoding sambil ngopi hitam tanpa gula ☕  
+- 🎮 Kadang belajar sambil main game online
+
+---
+
 ✨ _"Code is like humor. When you have to explain it, it’s bad."_
