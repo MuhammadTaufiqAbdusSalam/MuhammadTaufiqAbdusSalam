@@ -50,4 +50,4 @@
 
 ---
 
-✨ _"Code is like humor. When you have to explain it, it’s bad."_
+🔥 "Setiap baris kode kecil bisa jadi bagian dari sesuatu yang besar."
