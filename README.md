@@ -50,4 +50,4 @@
 
 ---
 
-🔥 "Setiap baris kode kecil bisa jadi bagian dari sesuatu yang besar."
+🔥 "Setiap baris kode kecil bisa jadi bagian dari sesuatu yang besar"
