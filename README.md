@@ -88,7 +88,7 @@
 
 <div align="center">
   
-[![Trophies](https://github-profile-trophy.vercel.app/?username=MuhammadTaufiqAbdusSalam&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=MuhammadTaufiqAbdusSalam&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=4" alt="GitHub Trophies" />
 
 </div>
 
@@ -98,10 +98,18 @@
 
 <div align="center">
   
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadTaufiqAbdusSalam)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadtaufiqabdussalam)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/taufiq_salam)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taufiq@example.com)
+<a href="https://github.com/MuhammadTaufiqAbdusSalam" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com/in/muhammadtaufiqabdussalam" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/taufiq_salam" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="mailto:taufiq@example.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
@@ -116,21 +124,15 @@
 ☕ Bisa ngoding sambil ngopi hitam tanpa gula  
 🎮 Kadang belajar sambil main game online  
 🌙 Night owl programmer  
-🎵 Ngoding sambil dengerin musik lo-fi  
+🎵 Ngoding sambil dengerin musik  
 📚 Always curious about new technologies  
 
 </div>
 
----
-
 <div align="center">
-  
-![Snake animation](https://github.com/MuhammadTaufiqAbdusSalam/MuhammadTaufiqAbdusSalam/blob/output/github-contribution-grid-snake-dark.svg)
-
-<br>
 
 **Thanks for visiting my profile! 🚀**
 
-![Visitor Count](https://komarev.com/ghpvc/?username=MuhammadTaufiqAbdusSalam&style=for-the-badge&color=00D4FF)
+<img src="https://komarev.com/ghpvc/?username=MuhammadTaufiqAbdusSalam&style=for-the-badge&color=00D4FF" alt="Profile Views" />
 
 </div>
