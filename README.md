@@ -101,10 +101,10 @@
 <a href="https://github.com/MuhammadTaufiqAbdusSalam" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://[linkedin.com/in/muhammadtaufiqabdussalam](https://www.linkedin.com/in/muhammad-taufiq-319340361?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+<a href="https://linkedin.com/in/muhammadtaufiqabdussalam" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://[instagram.com/taufiq_salam](https://www.instagram.com/nyunyanyuq?utm_source=qr&igsh=c3Qyam0yZjl5Nnc5)" target="_blank">
+<a href="https://instagram.com/taufiq_salam" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
