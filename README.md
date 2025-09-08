@@ -140,10 +140,10 @@ const taufiq = {
 <table>
 <tr>
 <td align="center">
-  <img src="https://img.shields.io/badge/Total%20Commits-500+-00D4FF?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Total%20Commits-150+-00D4FF?style=for-the-badge&logo=github&logoColor=white"/>
 </td>
 <td align="center">
-  <img src="https://img.shields.io/badge/Public%20Repos-20+-00D4FF?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Public%20Repos-10+-00D4FF?style=for-the-badge&logo=github&logoColor=white"/>
 </td>
 <td align="center">
   <img src="https://img.shields.io/badge/Years%20Active-2+-00D4FF?style=for-the-badge&logo=github&logoColor=white"/>
