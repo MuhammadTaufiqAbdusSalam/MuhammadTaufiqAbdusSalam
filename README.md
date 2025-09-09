@@ -170,10 +170,6 @@ const taufiq = {
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling"/>
-
 </div>
 
 ## <div align="center"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="35"> Fun Facts</div>
@@ -198,6 +194,9 @@ const taufiq = {
 
 <img src="https://komarev.com/ghpvc/?username=MuhammadTaufiqAbdusSalam&style=for-the-badge&color=00D4FF&labelColor=black" alt="Profile Views" />
 
-</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling"/>
+
+</div>
