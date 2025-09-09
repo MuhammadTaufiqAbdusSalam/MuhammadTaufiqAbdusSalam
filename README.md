@@ -122,7 +122,8 @@ const taufiq = {
 
 <div align="center">
 
-[![Taufiq's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadTaufiqAbdusSalam&custom_title=Muhammad%20Taufiq's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00D4FF&line=00D4FF&point=00D4FF&area_color=FFFFFF&title_color=00D4FF&area=true&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Taufiq's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadTaufiqAbdusSalam&custom_title=Muhammad%20Taufiq's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=FFD93D&area_color=1a1a2e&title_color=00FFFF&area=true&radius=15)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 </div>
 
