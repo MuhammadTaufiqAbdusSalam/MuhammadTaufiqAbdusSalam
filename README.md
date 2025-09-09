@@ -133,28 +133,39 @@ const taufiq = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MuhammadTaufiqAbdusSalam&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=4" alt="GitHub Trophies" />
+<!-- Trophy Showcase -->
+<img src="https://github-profile-trophy.vercel.app/?username=MuhammadTaufiqAbdusSalam&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies"/>
 
 <br><br>
 
-<!-- Alternative Achievements Display -->
+<!-- Custom Badges -->
 <table>
 <tr>
 <td align="center">
-  <img src="https://img.shields.io/badge/Total%20Commits-150+-00D4FF?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Total%20Commits-150%2B-ff007f?style=for-the-badge&logo=git&logoColor=white&labelColor=black" alt="Commits Badge"/>
+  <br>
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="60"/>
 </td>
 <td align="center">
-  <img src="https://img.shields.io/badge/Public%20Repos-10+-00D4FF?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Public%20Repos-10%2B-00FFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repos Badge"/>
+  <br>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="60"/>
 </td>
 <td align="center">
-  <img src="https://img.shields.io/badge/Years%20Active-2+-00D4FF?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Years%20Active-2%2B-ff8c00?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Years Badge"/>
+  <br>
+  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="60"/>
 </td>
 </tr>
 </table>
 
+<br>
+
+<!-- Animated Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=footer"/>
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <div align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Connect With Me</div>
 
@@ -163,14 +174,23 @@ const taufiq = {
 <a href="https://github.com/MuhammadTaufiqAbdusSalam" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="GitHub"/>
 </a>
+
 <a href="https://www.linkedin.com/in/muhammad-taufiq-319340361" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/nyunyanyuq?igsh=c3Qyam0yZjl5Nnc5" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&link=https://linkedin.com" alt="LinkedIn"/>
 </a>
 
+<a href="https://www.instagram.com/nyunyanyuq?igsh=c3Qyam0yZjl5Nnc5" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+</a>
+
+<br><br>
+
+<!-- Animasi Pulse -->
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="80">  
+✨ Let's Connect ✨
+
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <div align="center"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="35"> Fun Facts</div>
 
@@ -178,13 +198,45 @@ const taufiq = {
 
 <table>
 <tr>
-<td align="center" width="20%">☕<br><b>Coffee Lover</b><br>Ngopi hitam tanpa gula</td>
-<td align="center" width="20%">🎮<br><b>Gamer</b><br>Main game online</td>
-<td align="center" width="20%">🌙<br><b>Night Owl</b><br>Night owl programmer</td>
-<td align="center" width="20%">🎵<br><b>Music</b><br>Coding with music</td>
-<td align="center" width="20%">📚<br><b>Curious</b><br>New technologies</td>
+<td align="center" width="20%">
+  
+✨  
+### ☕ Coffee Lover  
+Ngopi hitam tanpa gula  
+
+</td>
+<td align="center" width="20%">
+  
+✨  
+### 🎮 Gamer  
+Main game online  
+
+</td>
+<td align="center" width="20%">
+  
+✨  
+### 🌙 Night Owl  
+Night owl programmer  
+
+</td>
+<td align="center" width="20%">
+  
+✨  
+### 🎵 Music  
+Coding with music  
+
+</td>
+<td align="center" width="20%">
+  
+✨  
+### 📚 Curious  
+New technologies  
+
+</td>
 </tr>
 </table>
+
+---
 
 <br>
 
@@ -193,7 +245,6 @@ const taufiq = {
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=MuhammadTaufiqAbdusSalam&style=for-the-badge&color=00D4FF&labelColor=black" alt="Profile Views" />
-
 
 <br><br>
 
